@@ -23,7 +23,7 @@
 📍 Based in **India**
 
 <p align="left">
-  <a href="https://drive.google.com/file/d/1kz6hMK6duwmHR8kVV1hMD8k9ZbupSsVk/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1saZrsD5ewYN5Fd-rIMAkspedxG4iHcQS/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-Brightgreen?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume Badge">
   </a>
 </p>
