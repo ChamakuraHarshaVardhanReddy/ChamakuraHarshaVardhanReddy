@@ -23,7 +23,7 @@
 📍 Based in **India**
 
 <p align="left">
-  <a href="https://drive.google.com/file/d/1kz6hMK6duwmHR8kVV1hMD8k9ZbupSsVk/view?usp=sharing" target="_blank">
+  <a href="[https://drive.google.com/file/d/1kz6hMK6duwmHR8kVV1hMD8k9ZbupSsVk/view?usp=sharing](https://drive.google.com/file/d/1saZrsD5ewYN5Fd-rIMAkspedxG4iHcQS/view?usp=sharing)" target="_blank">
     <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-Brightgreen?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume Badge">
   </a>
 </p>
@@ -91,7 +91,7 @@
 | 📊 **Data Analysis with Tableau** | Coursera | [Verify](https://coursera.org/verify/W8FGVCHIZ9WX) |
 | 🔢 **Supervised ML: Regression & Classification** | Coursera | [Verify](https://coursera.org/verify/0ZK1WTYE84AE) |
 | ☁️ **Cloud Computing** | NPTEL | [View](https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs118/Course/NPTEL24CS118S157020108404431094.pdf) |
-| 🔁 **Data Structures & Algorithms** | Board Infinity | done |
+| 🔁 **Data Structures & Algorithms** | Board Infinity | [View](https://drive.google.com/file/d/1kz6hMK6duwmHR8kVV1hMD8k9ZbupSsVk/view?usp=sharing) |
 
 
 ---
